@@ -5,5 +5,5 @@ Reference: https://github.com/adjacentlink/emane/wiki
 
 Vagrant(local)
 Reference: https://emane-docker.readthedocs.io/en/latest/introduction.html
-!(pic/image-0.png)
+![pic0](pic/image-0.png)
 
