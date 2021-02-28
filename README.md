@@ -38,10 +38,6 @@ nodes:
 ~~~
 aws configure
 ~~~
-Access Key ID:
-AKIAJBMWYTRJCJUWHLPQ
-Secret Access Key:
-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
 
 ![pic4](pic/image-4.png)
 
